@@ -5,6 +5,6 @@ rem commit with the given message
 git commit -m %1
 
 rem push master branch of this remote project
-git push dec_1_javaee master
+git push dec_1_javase master
 
 
