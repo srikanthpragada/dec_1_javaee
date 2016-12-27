@@ -8,8 +8,8 @@ public class SendFile {
 
 	public static void main(String[] args) {
 
-		String to = "james@java.com";
-		String from = "gavin@java.com";
+		String to = "abc@dec1.com";
+		String from = "xyz@dec1.com";
 		String filename = "f:\\logo.jpg";
 
 		String body = "A file is attached to this message";
